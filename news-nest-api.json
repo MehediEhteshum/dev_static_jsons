@@ -160,58 +160,6 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": null,
-            "title": "Elon Musk won his Tesla pay battle. Now he has to win his legal war - Yahoo Finance",
-            "description": null,
-            "url": "https://finance.yahoo.com/news/elon-musk-won-his-tesla-pay-battle-now-he-has-to-win-his-legal-war-080001638.html",
-            "urlToImage": null,
-            "publishedAt": "2024-06-24T08:26:19Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": "TechCrunch",
-            "title": "Prosus writes off $22 billion Indian edtech giant Byju's to zero - TechCrunch",
-            "description": null,
-            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNi8yNC9wcm9zdXMtemVyb2VzLW91dC05LTYtYnlqdXMtc3Rha2Uv0gEA?oc=5",
-            "urlToImage": null,
-            "publishedAt": "2024-06-24T07:00:13Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Barron's"
-            },
-            "author": "Barron's",
-            "title": "Nvidia CEO Jensen Huang Sold $95 Million of Stock. Other Chip CEOs Are Selling. - Barron's",
-            "description": null,
-            "url": "https://www.barrons.com/articles/nvidia-stock-sales-chip-ceos-26aa9eee",
-            "urlToImage": null,
-            "publishedAt": "2024-06-24T07:00:00Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNBC"
-            },
-            "author": "Sheila Chiang",
-            "title": "China wants EU to scrap planned higher tariffs and 'abide by WTO rules,' state media reports - CNBC",
-            "description": "Scrapping the tariff decision on Chinese EVs is set to benefit both sides, Global Times reported, quoting observers.",
-            "url": "https://www.cnbc.com/2024/06/24/china-wants-eu-to-scrap-higher-tariffs-and-abide-by-wto-rules.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432081-1719204440910-gettyimages-1799971333-vcg111464948687.jpeg?v=1719204511&w=1920&h=1080",
-            "publishedAt": "2024-06-24T06:04:13Z",
-            "content": "China wants the European Union to revoke its decision to impose provisional tariffs on Chinese electric vehicles after both sides agreed to hold new talks, Global Times reported on Sunday.\r\nChina's c… [+1416 chars]"
-        },
-        {
-            "source": {
                 "id": "google-news",
                 "name": "Google News"
             },
@@ -248,32 +196,6 @@
             "urlToImage": "https://image.cnbcfm.com/api/v1/image/107431948-1718998619626-00_-_Personal_Avatars_created_with_a_webcam_1.png?v=1718998943&w=1920&h=1080",
             "publishedAt": "2024-06-24T05:00:01Z",
             "content": "Synthesia launched an option to make AI-generated avatars by recording footage of yourself with a webcam or your phone.\r\nSynthesia, a British artificial intelligence startup, on Monday showed off a s… [+6046 chars]"
-        },
-        {
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "author": "MEGAN JANETSKY",
-            "title": "Mexico City taxis keep the iconic Volkswagen Beetle alive - The Associated Press",
-            "description": "The Volkswagen Beetle may have been born in Germany, but the “Bug” is king in a neighborhood on the fringes of Mexico City. Classic Beetles are known as “vochos” in Mexico and still line the streets of Cuautepec — so much so that the area has been nicknamed “…",
-            "url": "https://apnews.com/article/volkswagen-beetle-bug-mexico-dity-vocho-daf6052ef864a2e6eabc68e130a2b0d2",
-            "urlToImage": "https://dims.apnews.com/dims4/default/411f1bf/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F90%2F431b2129535f9519b041ded36b83%2F942e72d0c9744f029118722204b6fff5",
-            "publishedAt": "2024-06-24T04:59:00Z",
-            "content": "MEXICO CITY (AP) Janette Navarros 1996 Volkswagen Beetle roars as it barrels up a steep hill overlooking concrete houses stacked like boxes on the outskirts of Mexico City.\r\nShe presses her foot on t… [+4428 chars]"
-        },
-        {
-            "source": {
-                "id": "reuters",
-                "name": "Reuters"
-            },
-            "author": "Reuters",
-            "title": "China says it reserves right to take measures against US planned investment curbs - Reuters",
-            "description": null,
-            "url": "https://www.reuters.com/markets/china-says-it-reserves-right-take-measures-against-us-planned-investment-curbs-2024-06-24/",
-            "urlToImage": null,
-            "publishedAt": "2024-06-24T04:30:48Z",
-            "content": null
         },
         {
             "source": {
