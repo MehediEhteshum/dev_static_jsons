@@ -5,6 +5,279 @@
         {
             "source": {
                 "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Dow futures tick higher as the market is set to enter the last week of June near a record: Live updates - CNBC",
+            "description": "The S&P 500 has advanced almost 15% this year after notching 31 record closes.",
+            "url": "https://www.cnbc.com/2024/06/23/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1708556665&w=1920&h=1080",
+            "publishedAt": "2024-06-24T12:29:00Z",
+            "content": "Dow Jones Industrial Average futures inched higher on Monday as the market is set to enter the last week of June and the first half of 2024 near record highs.\r\nFutures tied to the Dow climbed 84 poin… [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ambcrypto.com"
+            },
+            "author": "Adewale Olarinde",
+            "title": "Bitcoin miner revenue hit hardest as THIS troubling sign emerges - AMBCrypto News",
+            "description": "The halving has impacted the Bitcoin mining revenue, but other metrics have also been impacted.",
+            "url": "https://ambcrypto.com/bitcoin-miner-revenue-hit-hardest-as-this-troubling-sign-emerges/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/06/Bitcoin_miner-1-1000x600.webp",
+            "publishedAt": "2024-06-24T12:01:58Z",
+            "content": "<ul><li>BTC has fallen to the $62,000 price range.</li><li>Miners are feeling the heat as revenue drops to record low.</li></ul>Bitcoin [BTC] is experiencing a significant phase, reflected in the flu… [+2758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Leada Gore | lgore@al.com",
+            "title": "Big changes coming to your Amazon deliveries - AL.com",
+            "description": "Your next delivery could look different.",
+            "url": "https://www.al.com/news/2024/06/big-changes-coming-to-your-amazon-deliveries.html",
+            "urlToImage": "https://www.al.com/resizer/v2/VPKYEM34SFAQ5E5WT3GDSOANEA.JPG?auth=3e9711dd570b1ed951875f0c0048436d2378a6f568f8c2d02f229e4f4459b705&width=1280&quality=90",
+            "publishedAt": "2024-06-24T11:32:00Z",
+            "content": "Big changes are in store for your Amazon delivery.\r\nThe online mega-retailer announced last week it is ditching all air pillow packaging in favor of recycled paper filler for North American deliverie… [+987 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Ashima Grover",
+            "title": "Elon Musk slams ‘secretly’ fathering baby no. 12 with Neuralink's Shivon Zilia: ‘All our friends and family know' - Hindustan Times",
+            "description": "Elon Musk reportedly welcomed his youngest child earlier this year. Despite keeping matter private, the billionaire refuted secrecy around the baby's birth.",
+            "url": "https://www.hindustantimes.com/world-news/us-news/elon-musk-slams-secretly-fathering-baby-no-12-with-neuralinks-shivon-zilia-all-our-friends-and-family-know-101719223442669.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/24/1600x900/TESLA-COMPENSATION-AGM-MUSK-0_1719227757712_1719227830012.JPG",
+            "publishedAt": "2024-06-24T11:20:19Z",
+            "content": "Elon Musk welcomed a new baby to his ever-expanding family earlier this year. Sharing his reportedly 12th child, third with Neuralink Corp.'s director of special projects Shivon Zilis, the 52-year-ol… [+2805 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Michele Luhn",
+            "title": "5 things to know before the stock market opens Monday - CNBC",
+            "description": "Here are five key things investors need to know to start the trading day.",
+            "url": "https://www.cnbc.com/2024/06/24/5-things-to-know-before-the-stock-market-opens-monday-june-24.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107423294-1717422384480-gettyimages-2155115343-AFP_34UQ4HG.jpeg?v=1717422456&w=1920&h=1080",
+            "publishedAt": "2024-06-24T11:11:55Z",
+            "content": "Here are five key things investors need to know to start the trading day:\r\n1. Smooth sailing\r\nThe S&amp;P 500 dipped 0.16% on Friday but still registered a 0.6% gain for the week. The broad market in… [+4334 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Hema Parmar",
+            "title": "Jain Raises $5.3 Billion in Biggest Hedge Fund Debut Since 2018 - Bloomberg",
+            "description": "Bobby Jain has gathered $5.3 billion in commitments for his new multistrategy hedge fund, marking the biggest fundraising haul since ExodusPoint Capital Management’s record debut.",
+            "url": "https://www.bloomberg.com/news/articles/2024-06-24/jain-raises-5-3-billion-in-biggest-hedge-fund-debut-since-2018",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ1zaNsjdBnI/v0/1200x853.jpg",
+            "publishedAt": "2024-06-24T11:00:00Z",
+            "content": "Bobby Jain has gathered $5.3 billion in commitments for his new multistrategy hedge fund, marking the biggest fundraising haul since ExodusPoint Capital Managements record debut.\r\nJain Global will st… [+173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Yun Li",
+            "title": "Dow futures tick higher as the market is set to enter the last week of June near a record: Live updates - CNBC",
+            "description": "The S&P 500 has advanced almost 15% this year after notching 31 record closes.",
+            "url": "https://www.cnbc.com/2024/06/23/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107099147-NYSE-Trading-Floor-OB-Photo-220804-CC-PRESS-4.jpg?v=1708556665&w=1920&h=1080",
+            "publishedAt": "2024-06-24T12:29:00Z",
+            "content": "Dow Jones Industrial Average futures inched higher on Monday as the market is set to enter the last week of June and the first half of 2024 near record highs.\r\nFutures tied to the Dow climbed 84 poin… [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "An overbought market is a worry for traders but great for investors, according to Jefferies - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/an-overbought-market-is-a-worry-for-traders-but-great-for-investors-according-to-jefferies-68801e55",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T10:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ForexLive"
+            },
+            "author": "Justin Low",
+            "title": "The nerves are starting to show again in USD/JPY - ForexLive",
+            "description": "USD/JPY 15-minute chart This is the sort of nervous price action that we also saw previously when getting close to intervention territory.",
+            "url": "https://www.forexlive.com/news/the-nerves-are-starting-to-show-again-in-usdjpy-20240624/",
+            "urlToImage": "https://images.forexlive.com/images/USDJPY%20M15_id_284064d0-e7da-443d-b272-b8d2cf1a6d72_size975.jpg",
+            "publishedAt": "2024-06-24T10:12:00Z",
+            "content": "High risk warning:\r\nForeign exchange trading carries a high level of risk that may not be suitable for all investors. Leverage creates additional risk and loss exposure. Before you decide to trade fo… [+2129 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lisa Kailai Han, Fred Imbert",
+            "title": "Analyst calls: All the market-moving Wall Street chatter from Monday - CNBC",
+            "description": "Two tech stocks were among the names being talked about by analysts on Monday.",
+            "url": "https://www.cnbc.com/2024/06/24/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107308361-16959152532023-09-28t145730z_2121661326_rc2ph3akh7sb_rtrmadp_0_usa-stocks.jpeg?v=1696674037&w=1920&h=1080",
+            "publishedAt": "2024-06-24T09:47:51Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": "Maria Heeter, Antoine Gara",
+            "title": "Private equity sale of can maker reaps rare windfall from buyout boom - Financial Times",
+            "description": "KPS deal to sell Eviosys comes as dealmakers have struggled to exit a growing stockpile of ageing investments",
+            "url": "https://www.ft.com/content/84e1a383-fb6f-4bda-b8b2-cd276772b468",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fd9621ac5-7281-423a-8b70-4df79cf35c1c.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2024-06-24T09:45:42Z",
+            "content": "A US private equity group has sold a large industrial business for nearly $4bn, marking one of the first big private equity windfalls from a wave of dealmaking seen in 2021, when interest rates were … [+2814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "Adria Cimino",
+            "title": "The Best Stocks to Invest $50,000 In Right Now - The Motley Fool",
+            "description": "You can spread your investment across these five stocks...",
+            "url": "https://www.fool.com/investing/2024/06/24/the-best-stocks-to-invest-50000-in-right-now/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/781285/gettyimages-474008420.jpg",
+            "publishedAt": "2024-06-24T09:10:00Z",
+            "content": "You can spread your investment across these five stocks...This may be one of the best times ever to invest in technology stocks as we're facing a game-changing moment. The development of artificial i… [+6075 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Elon Musk won his Tesla pay battle. Now he has to win his legal war - Yahoo Finance",
+            "description": null,
+            "url": "https://finance.yahoo.com/news/elon-musk-won-his-tesla-pay-battle-now-he-has-to-win-his-legal-war-080001638.html",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T08:26:19Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TechCrunch",
+            "title": "Prosus writes off $22 billion Indian edtech giant Byju's to zero - TechCrunch",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNi8yNC9wcm9zdXMtemVyb2VzLW91dC05LTYtYnlqdXMtc3Rha2Uv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T07:00:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Nvidia CEO Jensen Huang Sold $95 Million of Stock. Other Chip CEOs Are Selling. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/nvidia-stock-sales-chip-ceos-26aa9eee",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T07:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sheila Chiang",
+            "title": "China wants EU to scrap planned higher tariffs and 'abide by WTO rules,' state media reports - CNBC",
+            "description": "Scrapping the tariff decision on Chinese EVs is set to benefit both sides, Global Times reported, quoting observers.",
+            "url": "https://www.cnbc.com/2024/06/24/china-wants-eu-to-scrap-higher-tariffs-and-abide-by-wto-rules.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432081-1719204440910-gettyimages-1799971333-vcg111464948687.jpeg?v=1719204511&w=1920&h=1080",
+            "publishedAt": "2024-06-24T06:04:13Z",
+            "content": "China wants the European Union to revoke its decision to impose provisional tariffs on Chinese electric vehicles after both sides agreed to hold new talks, Global Times reported on Sunday.\r\nChina's c… [+1416 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Daily Mail",
+            "title": "Major restaurant franchise owner shuts after more than 30 years as he becomes latest causality of California's - Daily Mail",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1NjE3ODEvTWFqb3ItcmVzdGF1cmFudC1mcmFuY2hpc2Utb3duZXItc2h1dHMtQ2FsaWZvcm5pYS1taW5pbXVtLXdhZ2UuaHRtbNIBeWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM1NjE3ODEvYW1wL01ham9yLXJlc3RhdXJhbnQtZnJhbmNoaXNlLW93bmVyLXNodXRzLUNhbGlmb3JuaWEtbWluaW11bS13YWdlLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T05:56:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph",
+            "title": "Bitcoin falls below $63K after BTC whale transactions drop 42% - Cointelegraph",
+            "description": null,
+            "url": "https://cointelegraph.com/news/bitcoin-price-critical-support-level-whale-transactions-btc",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T05:46:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "Nvidia-backed AI startup Synthesia now lets you make multilingual video presentations using just your phone or webcam - CNBC",
+            "description": "AI startup Synthesia debuted a slew of new features including the ability to make Apple-style presentations with avatars by using just a webcam or phone.",
+            "url": "https://www.cnbc.com/2024/06/24/synthesia-now-lets-you-make-ai-avatar-presentations-using-a-webcam.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107431948-1718998619626-00_-_Personal_Avatars_created_with_a_webcam_1.png?v=1718998943&w=1920&h=1080",
+            "publishedAt": "2024-06-24T05:00:01Z",
+            "content": "Synthesia launched an option to make AI-generated avatars by recording footage of yourself with a webcam or your phone.\r\nSynthesia, a British artificial intelligence startup, on Monday showed off a s… [+6046 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MEGAN JANETSKY",
+            "title": "Mexico City taxis keep the iconic Volkswagen Beetle alive - The Associated Press",
+            "description": "The Volkswagen Beetle may have been born in Germany, but the “Bug” is king in a neighborhood on the fringes of Mexico City. Classic Beetles are known as “vochos” in Mexico and still line the streets of Cuautepec — so much so that the area has been nicknamed “…",
+            "url": "https://apnews.com/article/volkswagen-beetle-bug-mexico-dity-vocho-daf6052ef864a2e6eabc68e130a2b0d2",
+            "urlToImage": "https://dims.apnews.com/dims4/default/411f1bf/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F90%2F431b2129535f9519b041ded36b83%2F942e72d0c9744f029118722204b6fff5",
+            "publishedAt": "2024-06-24T04:59:00Z",
+            "content": "MEXICO CITY (AP) Janette Navarros 1996 Volkswagen Beetle roars as it barrels up a steep hill overlooking concrete houses stacked like boxes on the outskirts of Mexico City.\r\nShe presses her foot on t… [+4428 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "China says it reserves right to take measures against US planned investment curbs - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/china-says-it-reserves-right-take-measures-against-us-planned-investment-curbs-2024-06-24/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T04:30:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Ambcrypto.com"
             },
             "author": "Benjamin Njiri",
