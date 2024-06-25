@@ -1,7 +1,267 @@
 {
     "status": "ok",
-    "totalResults": 68,
+    "totalResults": null,
     "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Ambcrypto.com"
+            },
+            "author": "Benjamin Njiri",
+            "title": "CoinStats shuts down: Phishing attack affects 1590 wallets worth $2M - AMBCrypto News",
+            "description": "CoinStats' affected wallets were drained of $2 million. Will users be repaid?",
+            "url": "https://ambcrypto.com/coinstats-shuts-down-phishing-attack-affects-1590-wallets-worth-2m/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/06/CoinStats-1000x600.jpeg",
+            "publishedAt": "2024-06-24T10:03:30Z",
+            "content": "<ul><li>CoinStats shuts down after suffering a security breach. </li><li>Reportedly,  $2 million of funds were drained per CoinStats CEO. </li></ul>CoinStats, a crypto portfolio management and tracki… [+1514 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "Apple charged with breaching EU tech rules, faces another probe - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvYXBwbGVzLWFwcC1zdG9yZS1ydWxlcy1icmVhY2gtZXUtdGVjaC1ydWxlcy1ldS1yZWd1bGF0b3JzLXNheS0yMDI0LTA2LTI0L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T09:36:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Bruce Gil",
+            "title": "Costco, Equinox and Hims use Ozempic hype to market weight loss services - Quartz",
+            "description": "Equinox, Costco, and Hims are rehashing old tactics to profit off medications known as GLP-1s",
+            "url": "https://qz.com/weight-loss-drugs-ozempic-costco-equiniox-hims-1851554367",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5e3b53235da9c1c8df71ad5bc3e6c094.jpg",
+            "publishedAt": "2024-06-24T09:00:00Z",
+            "content": "Skyrocketing sales for weight loss drugs known as GLP-1s, first made popular via the diabetes treatment Ozempic, have had ripple effects across the global economy. As more companies try to adapt to a… [+4503 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Elon Musk won his Tesla pay battle. Now he has to win his legal war - Yahoo Finance",
+            "description": null,
+            "url": "https://finance.yahoo.com/news/elon-musk-won-his-tesla-pay-battle-now-he-has-to-win-his-legal-war-080001638.html",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T08:26:19Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FXStreet"
+            },
+            "author": "Akhtar Faruqui",
+            "title": "Japanese Yen inches higher due to verbal intervention by Japanese authorities - FXStreet",
+            "description": "The Japanese Yen (JPY) holds its position, possibly due to verbal intervention by the Japanese authorities.",
+            "url": "https://www.fxstreet.com/news/japanese-yen-could-lose-ground-as-us-dollar-remains-stronger-202406240159",
+            "urlToImage": "https://editorial.fxstreet.com/images/Markets/Currencies/Majors/USDJPY/japanese-yens-7972406_Large.jpg",
+            "publishedAt": "2024-06-24T07:25:54Z",
+            "content": "<ul><li>The Japanese Yen holds ground, possibly due to verbal intervention by Japanese authorities.</li><li>Japan's Masato Kanda said he would intervene around the clock if necessary.</li><li>The US … [+5337 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TechCrunch",
+            "title": "Prosus writes off $22 billion Indian edtech giant Byju's to zero - TechCrunch",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNi8yNC9wcm9zdXMtemVyb2VzLW91dC05LTYtYnlqdXMtc3Rha2Uv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T07:00:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Barron's",
+            "title": "Nvidia CEO Jensen Huang Sold $95 Million of Stock. Other Chip CEOs Are Selling. - Barron's",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL252aWRpYS1zdG9jay1zYWxlcy1jaGlwLWNlb3MtMjZhYTllZWXSAUpodHRwczovL3d3dy5iYXJyb25zLmNvbS9hbXAvYXJ0aWNsZXMvbnZpZGlhLXN0b2NrLXNhbGVzLWNoaXAtY2Vvcy0yNmFhOWVlZQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T07:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sheila Chiang",
+            "title": "China wants EU to scrap planned higher tariffs and 'abide by WTO rules,' state media reports - CNBC",
+            "description": "Scrapping the tariff decision on Chinese EVs is set to benefit both sides, Global Times reported, quoting observers.",
+            "url": "https://www.cnbc.com/2024/06/24/china-wants-eu-to-scrap-higher-tariffs-and-abide-by-wto-rules.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432081-1719204440910-gettyimages-1799971333-vcg111464948687.jpeg?v=1719204511&w=1920&h=1080",
+            "publishedAt": "2024-06-24T06:04:13Z",
+            "content": "China wants the European Union to revoke its decision to impose provisional tariffs on Chinese electric vehicles after both sides agreed to hold new talks, Global Times reported on Sunday.\r\nChina's c… [+1416 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Erica Yokoyama and Ken McCallum",
+            "title": "Yen Is Under Pressure Even as Japan Steps Up Its Verbal Warnings - Yahoo Finance",
+            "description": "(Bloomberg) -- The yen remained under pressure on Monday, even after Japan’s top currency official warned that authorities stand ready to intervene in...",
+            "url": "https://finance.yahoo.com/news/japan-kanda-says-intervene-24-233013869.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Dnw5Gs69IZF7L66pKkt3iw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/79a5ee10822ecaefbbbb02a42ac05506",
+            "publishedAt": "2024-06-24T06:03:00Z",
+            "content": "(Bloomberg) -- The yen remained under pressure on Monday, even after Japans top currency official warned that authorities stand ready to intervene in currency markets 24 hours a day if necessary.\r\nMo… [+4270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph",
+            "title": "Bitcoin falls below $63K after BTC whale transactions drop 42% - Cointelegraph",
+            "description": null,
+            "url": "https://cointelegraph.com/news/bitcoin-price-critical-support-level-whale-transactions-btc",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T05:46:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MEGAN JANETSKY",
+            "title": "Mexico City taxis keep the iconic Volkswagen Beetle alive - The Associated Press",
+            "description": "The Volkswagen Beetle may have been born in Germany, but the “Bug” is king in a neighborhood on the fringes of Mexico City. Classic Beetles are known as “vochos” in Mexico and still line the streets of Cuautepec — so much so that the area has been nicknamed “…",
+            "url": "https://apnews.com/article/volkswagen-beetle-bug-mexico-dity-vocho-daf6052ef864a2e6eabc68e130a2b0d2",
+            "urlToImage": "https://dims.apnews.com/dims4/default/411f1bf/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5d%2F90%2F431b2129535f9519b041ded36b83%2F942e72d0c9744f029118722204b6fff5",
+            "publishedAt": "2024-06-24T04:59:00Z",
+            "content": "MEXICO CITY (AP) Janette Navarros 1996 Volkswagen Beetle roars as it barrels up a steep hill overlooking concrete houses stacked like boxes on the outskirts of Mexico City.\r\nShe presses her foot on t… [+4428 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "China says it reserves right to take measures against US planned investment curbs - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/china-says-it-reserves-right-take-measures-against-us-planned-investment-curbs-2024-06-24/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T04:30:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Exclusive: China's ByteDance working with Broadcom to develop advanced AI chip - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/technology/artificial-intelligence/chinas-bytedance-working-with-broadcom-develop-advanced-ai-chip-sources-say-2024-06-24/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T03:33:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Benzinga"
+            },
+            "author": "Benzinga Neuro",
+            "title": "Nvidia's Brand Recognition Lags Behind Apple, Microsoft, Despite Leading AI Revolution And Market Capitalization Crossing $3 Trillion - Microsoft (NASDAQ:MSFT), NVIDIA (NASDAQ:NVDA) - Benzinga",
+            "description": "NVIDIA Corp has surged past a $3 trillion market cap, but its brand recognition doesn't reflect this milestone. The company's brand value is not in line with its market cap, according to a recent report.",
+            "url": "https://www.benzinga.com/markets/equities/24/06/39449022/nvidias-brand-recognition-lags-behind-apple-microsoft-despite-leading-ai-revolution-and-market-c",
+            "urlToImage": "https://cdn.benzinga.com/files/images/story/2024/06/23/nvidia-huang2_0.jpeg?width=1200&height=800&fit=crop",
+            "publishedAt": "2024-06-24T02:47:27Z",
+            "content": "NVIDIA CorpNVDA has surged past a $3 trillion market cap, but it has some distance to cover as far as brand recognition is concerned. According to a consulting firm, Apple Inc., Microsoft Corp., Amaz… [+3113 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sheila Chiang",
+            "title": "Southeast Asia is a top choice for firms diversifying supply chains amid U.S.-China tensions - CNBC",
+            "description": "Rising tensions between Washington and Beijing have led firms to diversify supply chains away from China even as they maintain a presence in the country.",
+            "url": "https://www.cnbc.com/2024/06/24/southeast-asia-is-the-top-choice-for-firms-diversifying-away-from-china.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/101468878-185176465.jpg?v=1708405520&w=1920&h=1080",
+            "publishedAt": "2024-06-24T02:43:00Z",
+            "content": "Skyline, Ho Chi Minh City, Vietnam\r\nSoutheast Asia has emerged as a top choice for firms looking to diversify production away from China, including Chinese companies, amid escalating tensions between… [+5509 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mishtalk.com"
+            },
+            "author": null,
+            "title": "A $5 Meal Deal at McDonalds, Price Wars Also at Starbucks, Walmart, Target - Mish Talk",
+            "description": "Still more signs of consumer exhaustion are evident in tactics by McDonalds, Starbucks, and other chains’ attempts to woo back customers who said no more to rising prices.",
+            "url": "https://mishtalk.com/economics/a-5-meal-deal-at-mcdonalds-price-wars-also-at-starbucks-walmart-target/",
+            "urlToImage": "https://mishtalk.com/wp-content/uploads/2024/06/Consumers-hit-the-brick-wall-on-eating-out.png",
+            "publishedAt": "2024-06-24T02:38:13Z",
+            "content": "Still more signs of consumer exhaustion are evident in tactics by McDonalds, Starbucks, and other chains’ attempts to woo back customers who said no more to rising prices.\r\nFree Fry Fridays and a $5 … [+6346 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Danielle Ames",
+            "title": "The town that is pure California perfection - CNN",
+            "description": "With gorgeous scenery, drive-in movies and what’s billed as the world’s first motel, SLO is a throwback West Coast paradise serving up cool new attractions.",
+            "url": "https://www.cnn.com/travel/san-luis-obispo-california-best-towns-america/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/04-card-desktop-best-towns-san-luis-obispo.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-06-24T02:06:00Z",
+            "content": "See More Videos\r\nSan Luis Obispo, CaliforniiaCNN\r\n  — \r\nWander through quaint downtown streets or visit retro treasures such as Sunset Drive-In Theater, and youll quickly understand why San Luis Obis… [+10757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Timothy Smith",
+            "title": "Nvidia Stock in Spotlight After Drop From Record High - Investopedia",
+            "description": "AI chipmaker Nvidia remains in focus after shares dropped from a record high reached Thursday and news that it will supply Middle Eastern telecommunications giant Ooredoo with its technology. Monitor these important chart levels.",
+            "url": "https://www.investopedia.com/nvidia-stock-in-spotlight-after-drop-from-record-high-8667927",
+            "urlToImage": "https://www.investopedia.com/thmb/gl3B24NHnc7Fj-mPtdeb_Dg0lT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/NVDAChart-728c2c909550441cbb7d78311e8a1009.GIF",
+            "publishedAt": "2024-06-24T01:58:00Z",
+            "content": "<ul><li>AI chipmaker Nvidia remains in the spotlight after shares dropped from a record high reached Thursday and news that it will supply Middle Eastern telecommunications giant Ooredoo with its tec… [+2728 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Greg Wehner",
+            "title": "Cathie Wood says she’ll vote for Trump because he would ‘do the best job for our economy’ - Fox Business",
+            "description": "Former President Donald Trump gained another supporter over the weekend after Ark Invest CEO Cathie Wood told a YouTuber during an interview that she'd choose Trump over Biden.",
+            "url": "https://www.foxbusiness.com/politics/trump-gains-another-major-supporter-economic-world",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/06/0/0/Wood-Trump-Split.jpg?ve=1&tl=1",
+            "publishedAt": "2024-06-24T01:41:00Z",
+            "content": "Ark Invest CEO Cathie Wood said she would vote for former President Trump over President Biden in the November presidential election, solely basing her decision on who she believes would be the best … [+4592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alex Oliveira",
+            "title": "San Francisco McDonald's shutters after 30 years in latest casualty of $20 minimum wage: 'Gut-wrenching' - New York Post ",
+            "description": "“This is a gut-wrenching day for my family,” franchise owner Scott Rodrick said.",
+            "url": "https://nypost.com/2024/06/23/us-news/san-francisco-mcdonalds-shutters-after-30-years-in-latest-casualty-of-20-minimum-wage/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/84355449.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-06-24T01:17:00Z",
+            "content": "A longtime San Francisco McDonald’s has become the latest casualty to California’s new $20 minimum wage, according to reports.\r\nThe McDonald’s at the Stonestown Galleria shopping mall, located about … [+2350 chars]"
+        },        
         {
             "source": {
                 "id": null,
