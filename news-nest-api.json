@@ -4,6 +4,266 @@
     "articles": [
         {
             "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Nvidia, other chips drag Nasdaq; markets eye inflation data - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/us/futures-mixed-inflation-data-presidential-debate-focus-2024-06-24/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T14:19:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Fast fashion retailer Shein filed for London listing in early June - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/business/retail-consumer/fast-fashion-retailer-shein-filed-london-listing-early-june-sources-say-2024-06-24/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T13:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Analyst Says NVIDIA Corp (NASDAQ:NVDA) is the “Only Game In Town” for AI GPUs - Yahoo Finance",
+            "description": null,
+            "url": "https://finance.yahoo.com/news/analyst-says-nvidia-corp-nasdaq-135257269.html",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T13:52:57Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Gerry Smith",
+            "title": "Alnylam Soars After Drug Meets Goal in Heart Disease Trial - Yahoo Finance",
+            "description": "(Bloomberg) -- Alnylam Pharmaceuticals Inc. shares soared after its drug succeeded in treating a progressive and deadly form of heart disease, potentially...",
+            "url": "https://finance.yahoo.com/news/alnylam-shares-soar-drug-meets-113947027.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BA2GgpauAdx.Z5h6GOrnsw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/621e71d9beee66aa3abbb1a53c4901ff",
+            "publishedAt": "2024-06-24T13:46:08Z",
+            "content": "(Bloomberg) -- Alnylam Pharmaceuticals Inc. shares soared after its drug succeeded in treating a progressive and deadly form of heart disease, potentially opening up a new avenue for the companys top… [+2957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Nvidia CEO Jensen Huang Sold $95 Million of Stock. Micron and Other Chip CEOs Are Selling. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/nvidia-micron-qualcomm-stock-sales-chip-ceo-26aa9eee",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T13:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ambcrypto.com"
+            },
+            "author": "Samuel Edyme",
+            "title": "Bitcoin heads towards Japan? Assessing if THIS move will finally help BTC - AMBCrypto News",
+            "description": "Metaplanet plans a ¥1 billion bond sale to invest in Bitcoin amidst a volatile market. Would this impact price",
+            "url": "https://ambcrypto.com/bitcoin-heads-towards-japan-assessing-if-this-move-will-finally-help-btc/",
+            "urlToImage": "https://ambcrypto.com/wp-content/uploads/2024/06/BTC-FI-1-1000x600.jpg",
+            "publishedAt": "2024-06-24T13:32:03Z",
+            "content": "<ul><li>Metaplanet to issue ¥1 billion in bonds to purchase Bitcoin.</li><li>Analysis of Bitcoin’s market fundamentals suggested limited impact on overall price.</li></ul>Despite a recent downturn in… [+3716 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "FATIMA HUSSEIN",
+            "title": "Yellen announces efforts to boost the housing supply as high prices create a crunch - The Associated Press",
+            "description": "The Biden administration is announcing new steps to increase access to affordable housing. The Democratic administration is announcing new federal initiatives as still-high prices on groceries and other necessities and high interest rates have dramatically pu…",
+            "url": "https://apnews.com/article/housing-treasury-homelessness-yellen-interest-rates-9055dd9394a0e01609d04294f40ae6a7",
+            "urlToImage": "https://dims.apnews.com/dims4/default/b4d5db5/2147483647/strip/true/crop/5162x2904+0+269/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F1a%2F5eeb5d4329586d160abfd62d393b%2F574a599e0b024ad4a91c9001c2ead32d",
+            "publishedAt": "2024-06-24T13:32:00Z",
+            "content": "WASHINGTON (AP) The Biden administration is announcing new steps to increase access to affordable housing as still-high prices on groceries and other necessities and high interest rates have dramatic… [+4246 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "WYATTE GRANTHAM-PHILIPS AP business writer",
+            "title": "Car dealerships in North America revert to pens and paper after cyberattacks on software provider - ABC News",
+            "description": "Car dealerships across North America continue to wrestle with disruptions that started last week",
+            "url": "https://abcnews.go.com/US/wireStory/car-dealerships-north-america-revert-pens-paper-after-111364086",
+            "urlToImage": "https://i.abcnewsfe.com/a/56a63b39-7dec-4eb0-9206-babd0e5efd86/wirestory_3f7c81f6be0e212172b33cdc9f49feba_16x9.jpg?w=1600",
+            "publishedAt": "2024-06-24T13:30:00Z",
+            "content": "NEW YORK -- Car dealerships in North America continue to wrestle with major disruptions that started last week with cyberattacks on a software company used widely in the auto retail sales sector. \r\nC… [+3919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Decrypt"
+            },
+            "author": "Tarang Khaitan",
+            "title": "Nearly $100 Million Longs Liquidated as Bitcoin Dips Below $61,000 - Decrypt",
+            "description": "In stark contrast, derivatives traders who shorted assets saw minor losses, as short liquidations now stand at just $25 million.",
+            "url": "https://decrypt.co/236731/bitcoin-100-million-longs-liquidated-btc-dips-below-61000",
+            "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/06/bitcoin-btc-liquidiation-derivatives-longs-gID_7.jpeg",
+            "publishedAt": "2024-06-24T13:01:33Z",
+            "content": "Bears appear to be in control of the market, as the leading cryptocurrency Bitcoin has dropped below the $61,000 mark. As it has, nearly $100 million worth of BTC longs have been wiped out in the pas… [+2121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brett LoGiurato",
+            "title": "Stock market today: Stock futures inch higher as Wall Street looks to wrap up high-flying Q2 - Yahoo Finance",
+            "description": "Stocks are hoping to add a punchline to what's been a high-flying quarter thus far.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-jumps-nvidias-continued-slide-drags-on-nasdaq-133044393.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/2cyQbeLrKuJ9EM8SwZ2vQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/a4c645f0-2f3e-11ef-bebc-60b0cbbf1af3",
+            "publishedAt": "2024-06-24T12:38:33Z",
+            "content": "US stocks were mostly higher on Monday, but chip heavyweight Nvidia's (NVDA) continued slide dragged on the Nasdaq to start the final week of another successful quarter on Wall Street.\r\nThe benchmark… [+4526 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NBC Philadelphia",
+            "title": "Passengers stalled as delays cause frustration at PHL Airport - NBC Philadelphia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm5iY3BoaWxhZGVscGhpYS5jb20vbmV3cy9sb2NhbC9wYXNzZW5nZXJzLXN0YWxsZWQtZGVsYXlzLWZydXN0cmF0aW9uLXBobC1haXJwb3J0LzM4OTI5Mjgv0gFraHR0cHM6Ly93d3cubmJjcGhpbGFkZWxwaGlhLmNvbS9uZXdzL2xvY2FsL3Bhc3NlbmdlcnMtc3RhbGxlZC1kZWxheXMtZnJ1c3RyYXRpb24tcGhsLWFpcnBvcnQvMzg5MjkyOC8_YW1wPTE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T12:35:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "Monday's top analyst calls on Wall Street like Nvidia - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMjQvbW9uZGF5cy10b3AtYW5hbHlzdC1jYWxscy1vbi13YWxsLXN0cmVldC1saWtlLW52aWRpYS5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T12:22:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Investopedia",
+            "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmludmVzdG9wZWRpYS5jb20vNS10aGluZ3MtdG8ta25vdy1iZWZvcmUtdGhlLXN0b2NrLW1hcmtldC1vcGVucy1qdW5lLTI0LTIwMjQtODY2NzkwNdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T12:11:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Benzinga",
+            "title": "What's Going On With Trump Media & Technology Stock On Monday? - Trump Media & Technology (NASDAQ:DJT) - Benzinga",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmJlbnppbmdhLmNvbS9uZXdzLzI0LzA2LzM5NDUzNzcyL3doYXRzLWdvaW5nLW9uLXdpdGgtdHJ1bXAtbWVkaWEtdGVjaG5vbG9neS1zdG9jay1vbi1tb25kYXnSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T12:01:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Motorsport.com",
+            "title": "Dumas, Ford win Pikes Peak despite stopping on course - Motorsport.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm1vdG9yc3BvcnQuY29tL2hpbGxjbGltYi9uZXdzL2R1bWFzLWZvcmQtd2luLXBpa2VzLXBlYWstZGVzcGl0ZS1zdG9wcGluZy1vbi1jb3Vyc2UvMTA2MjY5NzAv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-24T11:53:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Leada Gore | lgore@al.com",
+            "title": "Big changes coming to your Amazon deliveries - AL.com",
+            "description": "Your next delivery could look different.",
+            "url": "https://www.al.com/news/2024/06/big-changes-coming-to-your-amazon-deliveries.html",
+            "urlToImage": "https://www.al.com/resizer/v2/VPKYEM34SFAQ5E5WT3GDSOANEA.JPG?auth=3e9711dd570b1ed951875f0c0048436d2378a6f568f8c2d02f229e4f4459b705&width=1280&quality=90",
+            "publishedAt": "2024-06-24T11:32:00Z",
+            "content": "Big changes are in store for your Amazon delivery.\r\nThe online mega-retailer announced last week it is ditching all air pillow packaging in favor of recycled paper filler for North American deliverie… [+987 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Alex Whitelock",
+            "title": "Oops, has Amazon just leaked the dates for Prime Day 2024? - TechRadar",
+            "description": "Can you spot the dates hidden in plain sight?",
+            "url": "https://www.techradar.com/seasonal-sales/oops-has-amazon-just-leaked-the-dates-for-prime-day-2024",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/y3XG7rNdejveYLbX3mch33-1200-80.jpg",
+            "publishedAt": "2024-06-24T11:20:40Z",
+            "content": "Has Amazon just let slip the official dates for its annual Amazon Prime Day mega-sale? Well, if you're Googling it ahead of the official announcement it appears the answer is yes.\r\nIf you're eagle-ey… [+2637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Ashima Grover",
+            "title": "Elon Musk slams ‘secretly’ fathering baby no. 12 with Neuralink's Shivon Zilia: ‘All our friends and family know' - Hindustan Times",
+            "description": "Elon Musk reportedly welcomed his youngest child earlier this year. Despite keeping matter private, the billionaire refuted secrecy around the baby's birth.",
+            "url": "https://www.hindustantimes.com/world-news/us-news/elon-musk-slams-secretly-fathering-baby-no-12-with-neuralinks-shivon-zilia-all-our-friends-and-family-know-101719223442669.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/24/1600x900/TESLA-COMPENSATION-AGM-MUSK-0_1719227757712_1719227830012.JPG",
+            "publishedAt": "2024-06-24T11:20:19Z",
+            "content": "Elon Musk welcomed a new baby to his ever-expanding family earlier this year. Sharing his reportedly 12th child, third with Neuralink Corp.'s director of special projects Shivon Zilis, the 52-year-ol… [+2805 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Hema Parmar",
+            "title": "Jain Raises $5.3 Billion in Biggest Hedge Fund Debut Since 2018 - Bloomberg",
+            "description": "Bobby Jain has gathered $5.3 billion in commitments for his new multistrategy hedge fund, marking the biggest fundraising haul since ExodusPoint Capital Management’s record debut.",
+            "url": "https://www.bloomberg.com/news/articles/2024-06-24/jain-raises-5-3-billion-in-biggest-hedge-fund-debut-since-2018",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ1zaNsjdBnI/v0/1200x853.jpg",
+            "publishedAt": "2024-06-24T11:00:00Z",
+            "content": "Bobby Jain has gathered $5.3 billion in commitments for his new multistrategy hedge fund, marking the biggest fundraising haul since ExodusPoint Capital Managements record debut.\r\nJain Global will st… [+173 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "ANI Pharmaceuticals, Inc.",
+            "title": "ANI Pharmaceuticals to Further Expand Rare Disease Business through Acquisition of Alimera Sciences - GlobeNewswire",
+            "description": "Conference call scheduled for today at 8:30 a.m. ET  Strengthens Rare Disease segment as largest driver of future growth, expected to add approximately......",
+            "url": "https://www.globenewswire.com/news-release/2024/06/24/2902835/0/en/ANI-Pharmaceuticals-to-Further-Expand-Rare-Disease-Business-through-Acquisition-of-Alimera-Sciences.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/24d1d851-9075-4d6e-b22c-0c23a5ef0b36",
+            "publishedAt": "2024-06-24T10:53:33Z",
+            "content": "Conference call scheduled for today at 8:30 a.m. ET\r\n<ul><li>Strengthens Rare Disease segment as largest driver of future growth, expected to add approximately $105 million in highly durable branded … [+20311 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "CNBC"
             },
@@ -40,19 +300,6 @@
             "urlToImage": "https://www.al.com/resizer/v2/VPKYEM34SFAQ5E5WT3GDSOANEA.JPG?auth=3e9711dd570b1ed951875f0c0048436d2378a6f568f8c2d02f229e4f4459b705&width=1280&quality=90",
             "publishedAt": "2024-06-24T11:32:00Z",
             "content": "Big changes are in store for your Amazon delivery.\r\nThe online mega-retailer announced last week it is ditching all air pillow packaging in favor of recycled paper filler for North American deliverie… [+987 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Hindustan Times"
-            },
-            "author": "Ashima Grover",
-            "title": "Elon Musk slams ‘secretly’ fathering baby no. 12 with Neuralink's Shivon Zilia: ‘All our friends and family know' - Hindustan Times",
-            "description": "Elon Musk reportedly welcomed his youngest child earlier this year. Despite keeping matter private, the billionaire refuted secrecy around the baby's birth.",
-            "url": "https://www.hindustantimes.com/world-news/us-news/elon-musk-slams-secretly-fathering-baby-no-12-with-neuralinks-shivon-zilia-all-our-friends-and-family-know-101719223442669.html",
-            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/24/1600x900/TESLA-COMPENSATION-AGM-MUSK-0_1719227757712_1719227830012.JPG",
-            "publishedAt": "2024-06-24T11:20:19Z",
-            "content": "Elon Musk welcomed a new baby to his ever-expanding family earlier this year. Sharing his reportedly 12th child, third with Neuralink Corp.'s director of special projects Shivon Zilis, the 52-year-ol… [+2805 chars]"
         },
         {
             "source": {
