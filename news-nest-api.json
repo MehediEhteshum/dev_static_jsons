@@ -7,6 +7,266 @@
                 "id": "google-news",
                 "name": "Google News"
             },
+            "author": "Barron's",
+            "title": "Nvidia Stock & Capital Gains Taxes: Here’s What to Do. - Barron's",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmJhcnJvbnMuY29tL2FydGljbGVzL252aWRpYS1zdG9jay1jYXBpdGFsLWdhaW5zLXRheGVzLWIxYTk0ODgz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T14:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Nvidia comeback, FedEx, Rivian and Volkswagen: 3 Things - Yahoo Finance",
+            "description": null,
+            "url": "https://finance.yahoo.com/video/nvidia-comeback-fedex-rivian-volkswagen-131249379.html",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T13:12:49Z",
+            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Hugh Son",
+            "title": "Morgan Stanley wealth advisors are about to get an OpenAI-powered assistant to do their grunt work - CNBC",
+            "description": "The rollout will be a real-world test for the vaunted productivity gains of generative AI, which took the world by storm in late 2022.",
+            "url": "https://www.cnbc.com/2024/06/26/morgan-stanley-openai-powered-assistant-for-wealth-advisors.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106027061-1563472600346gettyimages-1126759074r.jpg?v=1719414518&w=1920&h=1080",
+            "publishedAt": "2024-06-26T13:01:59Z",
+            "content": "Signage is displayed outside Morgan Stanley &amp; Co. headquarters in the Times Square neighborhood of New York.\r\nMorgan Stanley is pushing further into its adoption of artificial intelligence with a… [+4939 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Chipotle Stock Jumps After 50-for-1 Split - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/chipotle-stock-split-price-f4e04619",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T12:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "MICHELLE CHAPMAN AP business writer",
+            "title": "Rivian shares soar on massive cash injection from Volkswagen, starting immediately with $1 billion - ABC News",
+            "description": "Shares of Rivian are soaring before the opening bell after Volkswagen agreed to invest $1 billion in the electric vehicle maker immediately and a potential total of up to $5 billion as part of a software development agreement",
+            "url": "https://abcnews.go.com/Business/wireStory/rivian-shares-soar-massive-cash-injection-volkswagen-starting-111436103",
+            "urlToImage": "https://i.abcnewsfe.com/a/684003b2-c57a-48e2-be64-ac16b564bb85/wirestory_9d4f85caeeccdf605805aabf50753484_16x9.jpg?w=1600",
+            "publishedAt": "2024-06-26T12:49:03Z",
+            "content": "Shares of Rivian soared 40% before markets opened Wednesday after Volkswagen vowed to invest $1 billion in the struggling electric vehicle maker immediately, and a potential total of up to $5 billion… [+2974 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Yahoo Finance",
+            "title": "Is Tesla Stock a Buy? - Yahoo Finance",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy90ZXNsYS1zdG9jay1idXktMTI0MDAwNDQzLmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T12:40:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Carmen Reinicke",
+            "title": "Micron's 65% Surge Puts Lofty AI Expectations Front And Center - Yahoo Finance",
+            "description": "(Bloomberg) -- Micron Technology Inc.’s more than $62 billion artificial intelligence-driven rally is about to face a test of whether it has jumped too far, ...",
+            "url": "https://finance.yahoo.com/news/micron-65-surge-puts-lofty-121129649.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/SZEAMliXaTXcQJR6ZFphUw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MzU-/https://media.zenfs.com/en/bloomberg_markets_842/6ab1dfbb350c60d7dc4bd5f936119fd7",
+            "publishedAt": "2024-06-26T12:11:29Z",
+            "content": "(Bloomberg) -- Micron Technology Inc.s more than $62 billion artificial intelligence-driven rally is about to face a test of whether it has jumped too far, too fast.\r\nMost Read from Bloomberg\r\nShares… [+3801 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Japanese yen falls to weakest level since 1986 - Financial Times",
+            "description": "Traders on alert for further currency intervention as market impact of April’s $62bn effort proves shortlived",
+            "url": "https://www.ft.com/content/5ec13d57-6bee-4e44-ab34-77370b0ec59c",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T12:02:03Z",
+            "content": "Then $75 per month.Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Niha Masih",
+            "title": "Here are the ice cream brands recalled over listeria risk - The Washington Post - The Washington Post",
+            "description": "Maryland-based Totally Cool recalled more than 65 products it supplies to 13 brands after FDA sampling detected the bacterium that causes listeria.",
+            "url": "https://www.washingtonpost.com/health/2024/06/26/ice-cream-recalls-listeria-totally-cool/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RG5FYC65V5CU5C42V3BCHQ4H3U.JPG&w=1440",
+            "publishedAt": "2024-06-26T12:01:04Z",
+            "content": "A few of your favorite ice cream products might no longer be in the freezer this summer after a prominent supplier to brands such as Hersheys and Friendlys issued a recall notice over a potential lis… [+1894 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNBC",
+            "title": "Oil prices bounce back as investors hope U.S. inventory data will point to stronger summer fuel demand - CNBC",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiO2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDYvMjYvY3J1ZGUtb2lsLXByaWNlcy10b2RheS5odG1s0gE_aHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDYvMjYvY3J1ZGUtb2lsLXByaWNlcy10b2RheS5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T11:45:49Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "Southwest Airlines cuts revenue forecast, blaming changing booking patterns - CNBC",
+            "description": "The company said it still expects record quarterly operating revenue in the second quarter.",
+            "url": "https://www.cnbc.com/2024/06/26/southwest-airlines-cuts-revenue-forecast.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107428252-1718224523402-gettyimages-2051578400-hawaii_aircraft_ka_016.jpeg?v=1719399978&w=1920&h=1080",
+            "publishedAt": "2024-06-26T11:39:13Z",
+            "content": "Southwest Airlines shares fell Wednesday after the carrier cut its second-quarter revenue forecast, citing changing booking patterns.\r\nThe stock had been down about 4% in early trading before recover… [+1821 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Rohan Goswami",
+            "title": "Masimo activist Politan presents 'last chance' for shareholders to force change at med-tech company - CNBC",
+            "description": "A month ahead of Masimo's annual meeting, activist investor Politan is laying out its case to shareholders to assume board control.",
+            "url": "https://www.cnbc.com/2024/06/26/masimo-activist-politan-proxy-fight.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107433135-1719343640094-gettyimages-630789024-AFP_JJ58C.jpeg?v=1719407159&w=1920&h=1080",
+            "publishedAt": "2024-06-26T11:31:49Z",
+            "content": "Founder and CEO of Masimo Joe Kiani addresses a press conference in Bangalore on Jan. 2, 2017.\r\nDespite voting for change at last year's annual meeting, shareholders in medical device maker Masimo ha… [+5964 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Isabel Keane",
+            "title": "Millionaire Treasury Secretary Janet Yellen gives out-of-touch response to skyrocketing grocery prices - New York Post ",
+            "description": "Millionaire Treasury Secretary Janet Yellen appeared out-of-touch when asked about inflation under President Joe Biden — insisting she goes to the grocery store “every week” — and isn&#…",
+            "url": "https://nypost.com/2024/06/26/us-news/janet-yellen-gives-out-of-touch-response-to-skyrocketing-grocery-prices/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/84491327.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-06-26T11:16:43Z",
+            "content": "Millionaire Treasury Secretary Janet Yellen appeared out-of-touch when asked about inflation under President Joe Biden insisting she goes to the grocery store “every week” and isn’t shocked by the sk… [+2058 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Bond Market in Step With Fed Is About to Slam Into US Election - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/news/articles/2024-06-26/bond-market-in-step-with-fed-is-about-to-slam-into-us-election",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T11:00:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNET",
+            "title": "Verizon Brings Streaming Perks to Home Internet Customers, Unveils New Logo - CNET",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvbW9iaWxlL3Zlcml6b24tYnJpbmdzLXN0cmVhbWluZy1wZXJrcy10by1ob21lLWludGVybmV0LWN1c3RvbWVycy11bnZlaWxzLW5ldy1sb2dvL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "MarketWatch",
+            "title": "The S&P 500 is at a 'critical juncture,' says this strategist. Here's his plan. - MarketWatch",
+            "description": null,
+            "url": "https://www.marketwatch.com/story/the-s-p-500-is-at-a-critical-juncture-says-this-strategist-heres-his-stock-game-plan-248aeefa",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T10:46:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Alex Sherman",
+            "title": "YouTube dominates streaming, forcing media companies to decide whether it's friend or foe - CNBC",
+            "description": "YouTube is gaining share of viewership on TVs, and legacy media doesn't have a uniform strategy to deal with the threat.",
+            "url": "https://www.cnbc.com/2024/06/26/youtube-streaming-dominance-media-strategy.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107432843-17193227042020-03-24t000000z_1592054526_rc2hqf93c9gd_rtrmadp_0_health-coronavirus-youtube.jpeg?v=1719322722&w=1920&h=1080",
+            "publishedAt": "2024-06-26T10:31:06Z",
+            "content": "It's been almost 20 years since the founding of Alphabet's YouTube, and Hollywood still doesn't really know what to do with it.\r\nYouTube, which effectively invented user-generated content, claims a d… [+16059 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Prarthana Prakash",
+            "title": "LVMH's Bernard Arnault got a letter from 93-year-old Warren Buffett saying he was making a mistake by upping his retirement age to only 80 - Fortune",
+            "description": "The Arnaults' clout in the luxury world has conjured \"Succession\" parallels over who might take over. But Bernard Arnault doesn't plan to retire just yet.",
+            "url": "https://fortune.com/europe/2024/06/26/lvmh-bernard-arnault-succession-letter-from-warren-buffett-mistake-retirement-age-80/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1551556170-1-1-e1719396177778.jpg?resize=1200,600",
+            "publishedAt": "2024-06-26T10:10:00Z",
+            "content": "Thats the one question luxury insiders and fashion lovers have about the biggest company in the industry, LVMH.\r\nThe Paris-based behemoth has only ever been led by founder and CEO Bernard Arnault, th… [+2861 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Brian Flood, Ramiro Vargas",
+            "title": "Shopping malls better adapt to modern times to avoid total death, serial entrepreneur says - Fox Business",
+            "description": "",
+            "url": "https://www.foxbusiness.com/media/shopping-malls-better-adapt-modern-times-avoid-total-death-serial-entrepreneur-says",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/2022-12-05T143930Z_1466265630_RC2PZX99JTBN_RTRMADP_3_USA-ECONOMY-SERVICES.jpg?ve=1&tl=1",
+            "publishedAt": "2024-06-26T10:01:00Z",
+            "content": "It wasn’t long ago that shopping malls were the epicenter of America’s towns, with teenagers flocking to hang out at the same place where their mothers could purchase a new blouse. But modern technol… [+4841 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox Business",
+            "title": "Nearly half of American EV owners want to switch back to gas-powered vehicle, McKinsey data shows - Fox Business",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tYXJrZXRzL25lYXJseS1oYWxmLWFtZXJpY2FuLWV2LW93bmVycy13YW50LXN3aXRjaC1iYWNrLWdhcy1wb3dlcmVkLXZlaGljbGUtbWNraW5zZXktZGF0YS1zaG93c9IBf2h0dHBzOi8vd3d3LmZveGJ1c2luZXNzLmNvbS9tYXJrZXRzL25lYXJseS1oYWxmLWFtZXJpY2FuLWV2LW93bmVycy13YW50LXN3aXRjaC1iYWNrLWdhcy1wb3dlcmVkLXZlaGljbGUtbWNraW5zZXktZGF0YS1zaG93cy5hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-26T10:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
             "author": "CNBC",
             "title": "Nasdaq futures rise after benchmark's worst day since April: Live updates - CNBC",
             "description": null,
